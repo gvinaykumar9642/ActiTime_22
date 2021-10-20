@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27399" started-at="2021-10-07T23:22:33 IST" finished-at="2021-10-07T23:23:00 IST">
+  <suite name="Default suite" duration-ms="20548" started-at="2021-10-20T15:11:24 IST" finished-at="2021-10-20T15:11:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27399" started-at="2021-10-07T23:22:33 IST" finished-at="2021-10-07T23:23:00 IST">
-      <class name="testScript.TC_20CreateContacts">
-        <test-method status="PASS" signature="CreateContacts()[pri:0, instance:testScript.TC_20CreateContacts@33c7e1bb]" name="CreateContacts" duration-ms="27329" started-at="2021-10-07T23:22:33 IST" finished-at="2021-10-07T23:23:00 IST">
+    <test name="Default test" duration-ms="20548" started-at="2021-10-20T15:11:24 IST" finished-at="2021-10-20T15:11:44 IST">
+      <class name="testScript.TC_16CreateContacts">
+        <test-method status="PASS" signature="createcontact()[pri:0, instance:testScript.TC_16CreateContacts@33c7e1bb]" name="createcontact" duration-ms="20500" started-at="2021-10-20T15:11:24 IST" finished-at="2021-10-20T15:11:44 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateContacts -->
-      </class> <!-- testScript.TC_20CreateContacts -->
+        </test-method> <!-- createcontact -->
+      </class> <!-- testScript.TC_16CreateContacts -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

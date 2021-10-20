@@ -17,7 +17,9 @@ import com.crm.vtiger.GenericUtils.WebDriverUtility;
 
 public class TC_16CreateContacts {
 	
-	public static void main(String []args)  throws IOException, InterruptedException
+	@Test
+	public void createcontact() throws IOException, InterruptedException
+	//public static void main(String []args)  throws IOException, InterruptedException
 	{
 		// using property file
 		   FileUtility file=new FileUtility();
